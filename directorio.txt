@@ -1,0 +1,11 @@
+ El volumen de la unidad C no tiene etiqueta.
+ El n£mero de serie del volumen es: 2E1D-8D2A
+
+ Directorio de C:\Users\ADMIN\Desktop\otro
+
+04/06/2022  12:06 p.ÿm.    <DIR>          .
+04/06/2022  12:06 p.ÿm.    <DIR>          ..
+04/06/2022  12:06 p.ÿm.                 0 directorio.txt
+04/06/2022  12:06 p.ÿm.             1.705 texto.txt
+               2 archivos          1.705 bytes
+               2 dirs  407.470.075.904 bytes libres
